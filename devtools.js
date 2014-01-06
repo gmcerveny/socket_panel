@@ -1,6 +1,6 @@
 chrome.devtools.panels.create(
     "Socket Log",
     null,
-    "panel.html",
+    "log_panel.html",
     null
 );
