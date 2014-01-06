@@ -1,5 +1,5 @@
 chrome.devtools.panels.create(
-    "My Panel",
+    "Socket Log",
     null,
     "panel.html",
     null
